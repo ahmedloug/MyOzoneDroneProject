@@ -20,8 +20,7 @@ This project is a compact onboard data logger designed to measure and record atm
 | MicroSD Card Module    | Data logging via SPI                 |
 
 ## ⚡ Wiring Diagram
-
-*(Insert wiring_diagram.png here)*
+<img width="1255" height="645" alt="elecrtic-diagram" src="https://github.com/user-attachments/assets/1210b741-381d-4f01-bbdd-146fc38ede16" />
 
 ## 🔌 Wiring Summary
 
@@ -40,7 +39,7 @@ When Wi-Fi is available, the ESP8266 sends the same payload to a local Flask end
 ## ⚠️ Disclaimer
 
 This project is for **experimental and educational purposes**.  
-The ozone sensor used is **not calibrated for professional air quality assessments**.
+The ozone sensor used is **not calibrated for professional air quality assessments** but gives coherent results in stable environment.
 
 ## 📄 License
 
